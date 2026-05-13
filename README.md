@@ -46,3 +46,9 @@ This GitHub profile documents my transition from traditional on-premises systems
 ## Career Direction
 
 I am currently focused on Entra Engineer, IAM Engineer, Azure Systems Engineer, and Cloud Systems Engineer roles.
+
+## Featured Portfolio
+
+[Azure Identity Portfolio](https://github.com/GLiberatos/Azure-Identity-Portfolio)
+
+This portfolio documents my hands-on work in Azure governance, Microsoft Entra ID, hybrid identity, Conditional Access, identity governance, systems engineering, and automation.
