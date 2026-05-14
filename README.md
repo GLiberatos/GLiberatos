@@ -26,11 +26,15 @@ This GitHub profile documents my transition from traditional on-premises systems
 
 ## Featured Portfolio
 
-### [Azure Identity Portfolio](https://github.com/GLiberatos/Azure-Identity-Portfolio)
+### Azure Identity Portfolio
 
-I am building a hands-on Azure Hybrid Identity, Microsoft 365, Endpoint Management, and Cloud Systems Engineering portfolio.
+This is my main hands-on technical portfolio repository:
 
-This portfolio is designed to demonstrate practical skills in:
+[View the Azure Identity Portfolio](https://github.com/GLiberatos/Azure-Identity-Portfolio)
+
+The portfolio documents my hands-on work across Azure Hybrid Identity, Microsoft 365, Endpoint Management, and Cloud Systems Engineering.
+
+It is designed to demonstrate practical skills in:
 
 - Azure governance
 - Microsoft Entra ID
