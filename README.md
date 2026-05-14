@@ -8,26 +8,45 @@ This GitHub profile documents my transition from traditional on-premises systems
 
 ## Current Focus Areas
 
-- Microsoft Entra ID
+- Microsoft Azure governance and cost controls
+- Microsoft Entra ID administration
 - Hybrid identity with Active Directory and Entra Connect
+- Microsoft 365 administration
+- Exchange Online / Outlook administration
+- SharePoint Online and OneDrive governance
+- Intune / MDM endpoint management
 - Conditional Access and MFA
 - Privileged Identity Management
 - Identity Governance
-- Azure administration
-- PowerShell automation
-- Cloud security fundamentals
-- Infrastructure documentation and runbooks
+- Azure systems engineering
+- Security monitoring and audit review
+- Compliance and framework mapping
+- AI-aware identity and governance
+- PowerShell and Microsoft Graph automation
 
-## Portfolio Projects
+## Featured Portfolio
 
-| Project | Status | Focus |
-|---|---|---|
-| Azure Identity Portfolio Foundation | In Progress | GitHub, documentation, cost controls |
-| Entra Tenant Baseline | Planned | Users, groups, roles, least privilege |
-| Hybrid Identity Lab | Planned | AD DS, Entra Connect, sync validation |
-| Conditional Access Baseline | Planned | MFA, named locations, policy testing |
-| Privileged Identity Management Lab | Planned | Just-in-time admin access |
-| Identity Governance Lab | Planned | Access reviews and lifecycle workflows |
+### [Azure Identity Portfolio](https://github.com/GLiberatos/Azure-Identity-Portfolio)
+
+I am building a hands-on Azure Hybrid Identity, Microsoft 365, Endpoint Management, and Cloud Systems Engineering portfolio.
+
+This portfolio is designed to demonstrate practical skills in:
+
+- Azure governance
+- Microsoft Entra ID
+- Hybrid identity
+- Microsoft 365 administration
+- Intune / MDM
+- Conditional Access
+- Privileged access
+- Identity governance
+- Azure systems engineering
+- PowerShell and Microsoft Graph automation
+- Security and compliance concepts
+
+Current active project:
+
+[Project 01 — Azure Cost Governance & Portfolio Foundation](https://github.com/GLiberatos/Azure-Identity-Portfolio/tree/main/projects/01-azure-cost-governance)
 
 ## Certifications
 
@@ -45,4 +64,12 @@ This GitHub profile documents my transition from traditional on-premises systems
 
 ## Career Direction
 
-I am currently focused on Entra Engineer, IAM Engineer, Azure Systems Engineer, and Cloud Systems Engineer roles.
+I am currently focused on roles such as:
+
+- Microsoft Entra Engineer
+- Identity and Access Management Engineer
+- Azure Systems Engineer
+- Microsoft 365 Administrator
+- Endpoint / Intune Administrator
+- Cloud Systems Engineer
+- Hybrid Identity Engineer
