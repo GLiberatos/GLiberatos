@@ -58,6 +58,10 @@ It is designed to demonstrate practical skills in:
 
 ## Current Active Project
 
+[Project 02 — Entra Tenant Baseline](https://github.com/GLiberatos/Azure-Identity-Portfolio/tree/main/projects/02-entra-tenant-baseline)
+
+Recently completed:
+
 [Project 01 — Azure Cost Governance & Portfolio Foundation](https://github.com/GLiberatos/Azure-Identity-Portfolio/tree/main/projects/01-azure-cost-governance)
 
 ## Certifications
