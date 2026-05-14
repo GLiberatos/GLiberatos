@@ -13,15 +13,17 @@ This GitHub profile documents my transition from traditional on-premises systems
 - Hybrid identity with Active Directory and Entra Connect
 - Microsoft 365 administration
 - Exchange Online / Outlook administration
-- SharePoint Online and OneDrive governance
+- SharePoint Online, OneDrive, and SharePoint Advanced Management governance
+- Microsoft Purview compliance and data governance
 - Intune / MDM endpoint management
 - Conditional Access and MFA
 - Privileged Identity Management
 - Identity Governance
 - Azure systems engineering
-- Security monitoring and audit review
+- Security monitoring, audit review, and Microsoft Sentinel
+- Power Platform Admin Center governance
 - Compliance and framework mapping
-- AI-aware identity and governance
+- AI-aware identity, Copilot readiness, and governance
 - PowerShell and Microsoft Graph automation
 
 ## Featured Portfolio
@@ -40,13 +42,19 @@ It is designed to demonstrate practical skills in:
 - Microsoft Entra ID
 - Hybrid identity
 - Microsoft 365 administration
+- Exchange Online / Outlook administration
+- SharePoint Online and OneDrive governance
+- SharePoint Advanced Management concepts
+- Microsoft Purview compliance and data governance
 - Intune / MDM
 - Conditional Access
 - Privileged access
 - Identity governance
 - Azure systems engineering
+- Microsoft Sentinel and security monitoring concepts
+- Power Platform Admin Center governance
 - PowerShell and Microsoft Graph automation
-- Security and compliance concepts
+- Security, compliance, and AI-aware governance concepts
 
 ## Current Active Project
 
@@ -77,3 +85,5 @@ I am currently focused on roles such as:
 - Endpoint / Intune Administrator
 - Cloud Systems Engineer
 - Hybrid Identity Engineer
+- Microsoft Cloud Administrator
+- Systems Engineer
